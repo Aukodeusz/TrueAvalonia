@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SurveyApple")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ae3fbbbbaedb579de584776e913a48433f1af309")]
 [assembly: System.Reflection.AssemblyProductAttribute("SurveyApple")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SurveyApple")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
